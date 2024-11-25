@@ -1,0 +1,20 @@
+{
+  "pages": [
+    "pages/index/index"
+  ],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "寂静空间",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "permission": {
+    "scope.userLocation": {
+      "desc": "需要获取用户的位置信息"
+    }
+  },
+  "map": {
+    "key": "1485c8a4ee1b1284f93448627cfe7787"
+  },
+  "usingComponents": {}
+}
